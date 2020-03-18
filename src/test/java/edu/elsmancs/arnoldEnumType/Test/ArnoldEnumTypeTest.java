@@ -1,6 +1,7 @@
 package edu.elsmancs.arnoldEnumType.Test;
 
 import static org.junit.Assert.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -103,4 +104,4 @@ public class ArnoldEnumTypeTest {
 	
 
 }
-}
+
